@@ -149,7 +149,8 @@ To route all traffic (not just HTTP/HTTPS) from the VM through Clash:
     nameserver 8.8.8.8
     nameserver 8.8.4.4
     ```
-
+  **Some trouble shooting links**
+  https://medium.com/@4xpl0r3r/deal-with-the-network-issue-of-udp-services-with-clash-tun-mode-enabled-274cca074f90
 ---
 
 ### **Conclusion**
